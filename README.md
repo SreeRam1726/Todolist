@@ -1,5 +1,5 @@
 # Ex03 To-Do List using JavaScript
-## Date: 14.05.2026
+## Date: 12.08.2026
 
 ## AIM
 To create a To-do Application with all features using JavaScript.
@@ -546,9 +546,9 @@ loadTasks();
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (244).png>) 
-![alt text](<Screenshot (243).png>) 
-![alt text](<Screenshot (242).png>)
+<img width="1036" height="565" alt="image" src="https://github.com/user-attachments/assets/bbc1dc2d-008d-45a4-99e5-8eb4044918bb" />
+<img width="1920" height="1080" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/57a107d0-5c1c-4a4b-9536-42ddae7fbdb5" />
+
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
